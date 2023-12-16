@@ -1,6 +1,7 @@
 # Iliya_S
 QA Manual | Tester
-<p> Hi! 👋 My name is Iliya Sanin. </p>
+
+## <p> Hi! 👋 My name is Iliya Sanin. </p>
 
 <p> Here I am showing all milestones I've achieved on my way to become a manual tester. Feel free to contact me if you see me as a valuable addition to your development team. </p>
 
