@@ -21,6 +21,7 @@
 
 ### Contact me 
 
-href="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft.me%2FIliyaS91"
+[![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IliyaS91)
+
 
 
