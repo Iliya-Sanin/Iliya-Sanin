@@ -22,6 +22,8 @@
 ### Contact me 
 
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IliyaS91)
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iliya-sanin/)
+
 
 
 
