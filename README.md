@@ -1,7 +1,14 @@
 # Iliya_S
 QA Manual | Tester
 <p> Hi! 👋 My name is Iliya Sanin. </p>
-====================================================================================================================================  Manual QA | Tester ------------------  Here I am showing all milestones I've achieved on my way to become a manual tester. Feel free to contact me if you see me as a valuable addition to your development team.  * 🌍  I'm based in Boston, MA * ✉️  You can contact me at [iliya.sanin91@gmail.com](mailto:iliya.sanin91@gmail.com) * 🤝  I'm open to collaborating on projects where I can
+
+<p> Here I am showing all milestones I've achieved on my way to become a manual tester. Feel free to contact me if you see me as a valuable addition to your development team. </p>
+
+<p>* 🌍  I'm based in Boston, MA </p>
+<p>* ✉️  You can contact me at [iliya.sanin91@gmail.com](mailto:iliya.sanin91@gmail.com) </p>
+<p>* 🤝  I'm open to collaborating on projects where my skills are needed </p>
+<p></p>
+<p></p>
 
 ### Skills  
 
