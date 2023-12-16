@@ -5,7 +5,7 @@
 <p>* 🌍  I'm based in Boston, MA </p>
 <p>* 🤝  I'm open to collaborating on projects where my skills are needed </p>
 
-### Skills  
+### Tools and Languages  
 
 ![Static Badge](https://img.shields.io/badge/DEVTOOLS-yellow?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql)
