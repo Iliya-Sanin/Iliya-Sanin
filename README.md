@@ -12,6 +12,7 @@
 ### Welcome to check out my:
 * CV
 * Repositories
+* Prove of my QA experience
 
 #
 ### Contact me 
