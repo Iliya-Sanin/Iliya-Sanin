@@ -1,9 +1,8 @@
 ## <p> Hi! 👋 My name is Iliya Sanin. </p>
-
-#
+<hr>
 <p>* 🌍  I'm based in Boston, MA </p>
 <p>* 🤝  I'm open to collaborating on projects where my skills are needed </p>
-
+<hr>
 <p> Here I am showing all milestones I've achieved on my way to become a manual tester. Feel free to contact me if you see me as a valuable addition to your development team. </p>
 
 ### Tools and Languages  
