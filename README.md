@@ -9,6 +9,9 @@
 ![Static Badge](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge&logo=mysql)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Welcome to check out my:
+* CV
+* Repositories
 
 ### Contact me 
 
