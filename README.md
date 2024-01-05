@@ -12,7 +12,7 @@
 
 ### Welcome to check out my:
 * CV
-* GitHub repositories with my practical tasks: [SQL](https://github.com/Iliya-Sanin/SQL), Postman, Terminal, Git
+* GitHub repositories with my practical tasks: [SQL](https://github.com/Iliya-Sanin/SQL), [Postman](https://github.com/Iliya-Sanin/Postman), Terminal, Git
 * Prove of my QA experience: [Test cases](https://docs.google.com/spreadsheets/d/14jJGkKE-_dsHoKDxv9vLEOiuVdoq1nghIAXShAxtGqM/edit?usp=sharing), [Bag Reports](https://docs.google.com/spreadsheets/d/1PcB0lMBvLAbC-182Xtb2DWlpNgbRFAeAY4_IThVkLvM/edit?usp=sharing), [Check lists](https://docs.google.com/spreadsheets/d/1M4U6JpDi8mtIIgrF1vO8SZwJ7qqzV4jZZsdfIvh4v80/edit?usp=sharing), [Requirement analyses](https://docs.google.com/spreadsheets/d/1o8A52A3gTyrYB0DvOBym1jpk1j_YVLWqHW_BHC4_eY8/edit?usp=sharing), [State transition]()
 
 #
