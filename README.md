@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&label=Xray&labelColor=white&color=white)
-![Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=data:image/png;base64,https://camo.githubusercontent.com/547759997608a3d7cd09d4a61df273f5e17908fcd4edef859c952ae66e16c3fb/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d7750436d426f39564148552f5836524669696177466b492f4141414141414141466c592f37437262736b35456c65344f577038464c33354842722d46723744543041394c51434c63424741735948512f733230302f466964646c65722d457665727977686572652d49636f6e2e706e67)
+![Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=data:image/png;base64,https://res.cloudinary.com/dowdwz8ak/image/upload/v1705540247/Fiddler_lsthpu.png)
 
 
 ### Welcome to check out my:
