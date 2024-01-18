@@ -13,6 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&label=Xray&labelColor=white&color=white)
 ![Static Badge](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logoColor=blue&labelColor=green&color=%2374ea00)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SOAP%20UI-%23FFFF00?style=for-the-badge&logoColor=blue&labelColor=%23FFFF00)
 
 
 ### Welcome to check out my:
