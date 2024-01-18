@@ -10,7 +10,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&labelColor=white&color=white)
+![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&label=Xray&labelColor=white&color=white)
 
 
 ### Welcome to check out my:
