@@ -12,7 +12,7 @@
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&label=Xray&labelColor=white&color=white)
 ![Static Badge](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logoColor=blue&labelColor=green&color=%2374ea00)
-
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 ### Welcome to check out my:
