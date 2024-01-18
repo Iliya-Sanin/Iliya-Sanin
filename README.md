@@ -11,7 +11,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-00485B.svg?style=for-the-badge&logo=iterm2&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira&logoColor=blue&label=Xray&labelColor=white&color=white)
-![Fiddler](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logo=data:image/png;base64,https://res.cloudinary.com/dowdwz8ak/image/upload/v1705540247/Fiddler_lsthpu.png)
+![Static Badge](https://img.shields.io/badge/Fiddler-white?style=for-the-badge&logoColor=blue&labelColor=green&color=%2374ea00)
+
 
 
 ### Welcome to check out my:
