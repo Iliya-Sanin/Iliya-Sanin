@@ -27,4 +27,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-iliya.sanin91@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:iliya.sanin91@gmail.com)](mailto:iliya.sanin91@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/IliyaS91)
 [![Static Badge](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iliya-sanin/)
-[![Static Badge](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/Iliya-Sanin/)
